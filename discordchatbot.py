@@ -19,7 +19,7 @@ client = discord.Client()
 
 #load_dotenv()
 #TOKEN = os.getenv('TOKEN')
-TOKEN = ('MTAyNDc1NDY5OTQ5ODQzMDU2Ng.GfoDXH.PaGAia7MAy_gQrWDCiMPsiR6uw4s9_yySy4VZE')
+TOKEN = ('insert token here')
 
 
 
